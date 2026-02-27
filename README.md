@@ -1,2 +1,7 @@
-# security-log-analysis-toolkit
-Python-based authentication log analysis toolkit for detecting suspicious login activity and generating structured security reports.
+## Stage 1 – Core Prototype
+
+- 50-entry hardcoded authentication dataset
+- FAIL/SUCCESS login counting
+- Per-IP failure aggregation
+- Threshold-based suspicious IP detection
+- Structured console security report
